@@ -1,0 +1,77 @@
+.section {
+      background-color: #22c3aa; 
+      color: #eef3f0;
+}
+#intro-wrap {
+      text-align: center;
+}
+#fullpage .intro-img {
+      width: 200px; 
+      height: 200px;  
+      border-radius: 50%; 
+      border: 10px solid #AEE300; 
+      border-left-color: #AEE27C;
+      border-right-color: #AEE27C;
+      border-top-color: #AEE300;
+     
+}
+#fullpage .h2 {
+      text-align: center; 
+      font: bold 80px/1 微软雅黑; 
+      color: #fff; 
+      margin-bottom: 20px; 
+      text-shadow: 1px 2px #22c3aa,2px 4px #aee2d9; 
+      margin-top: 20px;  
+}
+#fullpage .p {
+      text-align: center; 
+      font: normal 20px/1 微软雅黑; 
+      color: #fff; opacity: 0.8; 
+      filter: alpha(opacity=80);
+}
+#fullpage .p-experience {
+      width: 600px; 
+      margin: 0 auto; 
+      font: normal 20px/1.5 微软雅黑; 
+      color: #fff; opacity: 0.8; 
+      filter: alpha(opacity=80);
+}
+.tag-pane {
+      margin: 15px auto; 
+      text-align: center;
+}
+.tag {
+      background-color: #096254; 
+      color: #aee2d9; 
+      display: inline-block; 
+      border-radius: 3px; 
+      padding: 2px 8px; 
+      margin-bottom: 3px; 
+      font: normal 16px/1 微软雅黑; 
+      color: #fff;
+}
+#fullpage .pad100 {
+      margin-bottom: 100px;
+}
+.expert {
+      opacity: 1;
+}
+.familiar {
+      opacity: 0.5
+}
+.graduation {
+      text-align: center; 
+      font: normal 20px/3 微软雅黑; 
+      color: #fff; 
+      opacity: 0.8; 
+      filter: alpha(opacity=80);
+}
+.major {
+      width: 600px; 
+      margin: 0 auto; 
+      text-align: center; 
+      font: normal 20px/2 微软雅黑; 
+      color: #fff; 
+      opacity: 0.9; 
+      filter: alpha(opacity=80);
+}
