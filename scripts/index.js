@@ -28,7 +28,7 @@
 		        		break;
 		        		case 2: 
 			        		move(".section2 .p-experience").duration(1000).y(1200).end();  
-		        	        move(".section2 .h2").rotate(-180).y(1200).end(function(){
+		        	        move(".section2 .h2").rotate(-180).y(2000).end(function(){
 	                        	move(".h2").scale(1).end();
 		        	        });    		
 		        		break;
